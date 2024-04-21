@@ -1,4 +1,4 @@
-###Portfólio 
+**Portfólio 
 Este diretório contém os trabalhos feitos durante o 2° ano do ensino médio técnico no Senai.
 
 Meu nome é Léo Hablitzel, tenho 16 anos e estou cursando o ensino médio com curso técnico de desenvolvimento de sistemas.
